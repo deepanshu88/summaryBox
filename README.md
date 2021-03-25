@@ -89,4 +89,4 @@ shinyApp(ui = ui, server = server)
 #> Listening on http://127.0.0.1:3921
 ```
 
-<img src="man/figures/README-example-1.png" width="100%" />
+<img src="man/figures/summaryBox.PNG" width="100%" />
