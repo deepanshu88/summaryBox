@@ -1,0 +1,17 @@
+Package: summaryBox
+Type: Package
+Title: Value and Info Boxes in Shiny Apps and Rmarkdown
+Version: 0.1.0
+Author: person("Deepanshu","Bhalla",email="deepanshu88.us@gmail.com",role=c("aut"),comment="Original creator")
+Maintainer: Deepanshu Bhalla <deepanshu88.us@gmail.com>
+Description: Value and Info Boxes in Shiny Apps and Rmarkdown
+License: GPL-2
+Depends:
+    R (>= 3.1)
+Imports: 
+    htmltools
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Roxygen: list(markdown = TRUE)
+URL: https://github.com/deepanshu88/SummaryBox/
+BugReports: https://github.com/deepanshu88/SummaryBox/issues/

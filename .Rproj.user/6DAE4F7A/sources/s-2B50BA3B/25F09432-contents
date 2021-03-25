@@ -1,0 +1,16 @@
+---
+title: "Summary Box"
+output:
+  html_document:
+    theme:
+      version: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(summaryBox)
+```
+
+```{r box}
+summaryBox("Earnings (Monthly)", "$40,000", width = 3, icon = "fas fa-calendar", style = "info")
+```

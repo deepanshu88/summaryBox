@@ -1,0 +1,98 @@
+.my-card {position:absolute; left:40%; top:-20px; border-radius:50%;}
+  .myicon.fa, .myicon.fab, .myicon.fad, .myicon.fal, .myicon.far, .myicon.fas {font-size: 1.25em;}
+  .card-counter{
+    box-shadow: 2px 2px 10px #DADADA;
+    margin: 5px;
+    padding: 20px 10px;
+    background-color: #fff;
+    height: 100px;
+    border-radius: 5px;
+    transition: .3s linear all;
+  }
+
+  .card-counter:hover{
+    box-shadow: 4px 4px 20px #DADADA;
+    transition: .3s linear all;
+  }
+
+  .card-counter.primary{
+    background-color: #007bff;
+    color: #FFF;
+  }
+  
+  .card-counter.secondary{
+    background-color: #6c757d;
+    color: #FFF;
+  }    
+
+  .card-counter.warning{
+    background-color: #ffc107;
+    color: #FFF;
+  }    
+
+  .card-counter.danger{
+    background-color: #ef5350;
+    color: #FFF;
+  }  
+
+  .card-counter.success{
+    background-color: #66bb6a;
+    color: #FFF;
+  }  
+
+  .card-counter.info{
+    background-color: #26c6da;
+    color: #FFF;
+  }  
+
+  .card-counter.dark{
+    background-color: #343a40;
+    color: #FFF;
+  } 
+  
+  .card-counter.light{
+    background-color: #f8f9fa;
+    color: #343a40;
+  } 
+  
+  .card-counter i{
+    font-size: 4em;
+    opacity: 0.2;
+  }
+
+  .card-counter .count-numbers{
+    position: absolute;
+    right: 35px;
+    top: 20px;
+    font-size: 32px;
+    display: block;
+  }
+
+  .card-counter .count-name{
+    position: absolute;
+    right: 35px;
+    top: 65px;
+    font-style: italic;
+    text-transform: capitalize;
+    opacity: 0.5;
+    display: block;
+    font-size: 18px;
+  }
+             
+  .border-left-primary{border-left:.25rem solid #4e73df!important}
+  .border-bottom-primary{border-bottom:.25rem solid #4e73df!important}
+  .border-left-secondary{border-left:.25rem solid #858796!important}
+  .border-bottom-secondary{border-bottom:.25rem solid #858796!important}
+  .border-left-success{border-left:.25rem solid #1cc88a!important}
+  .border-bottom-success{border-bottom:.25rem solid #1cc88a!important}
+  .border-left-info{border-left:.25rem solid #36b9cc!important}
+  .border-bottom-info{border-bottom:.25rem solid #36b9cc!important}
+  .border-left-warning{border-left:.25rem solid #f6c23e!important}
+  .border-bottom-warning{border-bottom:.25rem solid #f6c23e!important}
+  .border-left-danger{border-left:.25rem solid #e74a3b!important}
+  .border-bottom-danger{border-bottom:.25rem solid #e74a3b!important}
+  .border-left-light{border-left:.25rem solid #f8f9fc!important}
+  .border-bottom-light{border-bottom:.25rem solid #f8f9fc!important}
+  .border-left-dark{border-left:.25rem solid #5a5c69!important}
+  .border-bottom-dark{border-bottom:.25rem solid #5a5c69!important}
+  .text-gray-300 {color: #dddfeb!important;}

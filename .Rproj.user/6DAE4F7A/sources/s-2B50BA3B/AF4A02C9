@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616584394930.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AF4A02C9",
+    "lastKnownWriteTime" : 1616586392,
+    "last_content_update" : 1616586392254,
+    "path" : "C:/My Files/Shiny Apps/SummaryBox/SummaryBox/R/bootstrap4.R",
+    "project_path" : "R/bootstrap4.R",
+    "properties" : {
+        "cursorPosition" : "20,15",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
