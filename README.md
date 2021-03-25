@@ -10,7 +10,7 @@
 The objective of this package is to add value / info boxes in shiny and
 Rmarkdown (bootstrap 4). Value and Info Boxes are very popular to
 display insights in colorful boxes, they are available in
-`shinydashboard` package but not in shiny and Rmarkdown.
+`shinydashboard` package but not in shiny and Rmarkdown. See the complete documentation of [summaryBox](https://www.listendata.com/2021/03/value-info-box-in-shiny-rmarkdown.html).
 
 ## Installation
 
