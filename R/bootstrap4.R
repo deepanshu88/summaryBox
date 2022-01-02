@@ -9,8 +9,8 @@ list(
   # Font Awesome
   htmltools::htmlDependency(name = "font-awesome",
                             version = "5.13.0",
-                            src = "www/shared/fontawesome",
-                            package = "shiny",
+                            src = "fontawesome",
+                            package = "fontawesome",
                             stylesheet = c("css/all.min.css", "css/v4-shims.min.css")),
 
   # Custom CSS
@@ -102,7 +102,7 @@ list(
 summaryBox <- function(title, value, width = 4, icon = "fas fa-chart-bar", style = "info", border = "left") {
 
 infotag  <-  tags$div(
-  class = paste0("col-xl-3 col-md-6 mb-", width),
+  class = paste0("col-md-", width),
   tags$div(
     class = paste0("card border-", border, "-", style, " shadow h-100 py-2"),
     tags$div(
